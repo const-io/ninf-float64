@@ -23,7 +23,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/const-io/const-ninf-float64.git"
+    "url": "git://github.com/const-io/ninf-float64.git"
   },
   "keywords": [
     "const.io",
@@ -41,7 +41,7 @@
     "infinity"
   ],
   "bugs": {
-    "url": "https://github.com/const-io/const-ninf-float64/issues"
+    "url": "https://github.com/const-io/ninf-float64/issues"
   },
   "dependencies": {},
   "devDependencies": {

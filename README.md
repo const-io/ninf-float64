@@ -102,20 +102,20 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors..
 [npm-image]: http://img.shields.io/npm/v/const-ninf-float64.svg
 [npm-url]: https://npmjs.org/package/const-ninf-float64
 
-[build-image]: http://img.shields.io/travis/const-io/const-ninf-float64/master.svg
-[build-url]: https://travis-ci.org/const-io/const-ninf-float64
+[build-image]: http://img.shields.io/travis/const-io/ninf-float64/master.svg
+[build-url]: https://travis-ci.org/const-io/ninf-float64
 
-[coverage-image]: https://img.shields.io/codecov/c/github/const-io/const-ninf-float64/master.svg
-[coverage-url]: https://codecov.io/github/const-io/const-ninf-float64?branch=master
+[coverage-image]: https://img.shields.io/codecov/c/github/const-io/ninf-float64/master.svg
+[coverage-url]: https://codecov.io/github/const-io/ninf-float64?branch=master
 
-[dependencies-image]: http://img.shields.io/david/const-io/const-ninf-float64.svg
-[dependencies-url]: https://david-dm.org/const-io/const-ninf-float64
+[dependencies-image]: http://img.shields.io/david/const-io/ninf-float64.svg
+[dependencies-url]: https://david-dm.org/const-io/ninf-float64
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/const-io/const-ninf-float64.svg
-[dev-dependencies-url]: https://david-dm.org/dev/const-io/const-ninf-float64
+[dev-dependencies-image]: http://img.shields.io/david/dev/const-io/ninf-float64.svg
+[dev-dependencies-url]: https://david-dm.org/dev/const-io/ninf-float64
 
-[github-issues-image]: http://img.shields.io/github/issues/const-io/const-ninf-float64.svg
-[github-issues-url]: https://github.com/const-io/const-ninf-float64/issues
+[github-issues-image]: http://img.shields.io/github/issues/const-io/ninf-float64.svg
+[github-issues-url]: https://github.com/const-io/ninf-float64/issues
 
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
